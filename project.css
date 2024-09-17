@@ -1,0 +1,55 @@
+.titulo1{
+    color: blueviolet;
+    font-size: 50px;
+    padding-left: 25px;
+   }
+
+   .titulo2{
+    color: blueviolet;
+    font-size: 50px;
+   }
+
+   body {
+    background-color: black;
+    color: white;
+   }
+
+   img {
+    width: 625px;
+    height: 375px;
+    padding-left: 25px;
+   }
+
+   .container{
+    padding: 0px 50px;
+}
+
+.img1 {
+    width: 300px;
+    height: 300px;
+    
+}
+
+ul{
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 16px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+ a:hover {
+    color: blueviolet;
+}
+
+p {
+    padding-right: 15px;
+}
+
+   
+
